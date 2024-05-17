@@ -1,6 +1,0 @@
-com.dicoding.newsapp.test.app-jetified-annotation-experimental-1.4.0-0 C:\Users\MSI\.gradle\caches\transforms-4\0de1ef0ecc8002c4da1c495adda846d0\transformed\jetified-annotation-experimental-1.4.0\res
-com.dicoding.newsapp.test.app-jetified-core-1.5.0-1 C:\Users\MSI\.gradle\caches\transforms-4\9f3985de487097378cecdf3120504a30\transformed\jetified-core-1.5.0\res
-com.dicoding.newsapp.test.app-androidTest-2 D:\Project\AndroidIntermediate\LatihanAdvancedTesting\app\build\generated\res\resValues\androidTest\debug
-com.dicoding.newsapp.test.app-mergeDebugAndroidTestResources-3 D:\Project\AndroidIntermediate\LatihanAdvancedTesting\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.dicoding.newsapp.test.app-mergeDebugAndroidTestResources-4 D:\Project\AndroidIntermediate\LatihanAdvancedTesting\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.dicoding.newsapp.test.app-debugAndroidTest-5 D:\Project\AndroidIntermediate\LatihanAdvancedTesting\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
