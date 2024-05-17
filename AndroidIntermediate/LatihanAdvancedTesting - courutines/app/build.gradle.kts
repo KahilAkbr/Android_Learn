@@ -77,6 +77,8 @@ dependencies {
     testImplementation(libs.mockito.core)
     testImplementation(libs.mockito.inline)
 
-    //special testing
+    //livedata
     testImplementation(libs.androidx.core.testing) // InstantTaskExecutorRule
+    //courutines (suspend func)
+    testImplementation ("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.1")
 }
