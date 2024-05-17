@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dicoding.newsapp-mergeDebugResources-43:/layout/fragment_news.xml",
+        "source": "com.dicoding.newsapp-main-46:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.dicoding.newsapp-mergeDebugResources-43:/layout/activity_home.xml",
+        "source": "com.dicoding.newsapp-main-46:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.dicoding.newsapp-mergeDebugResources-43:/layout/item_news.xml",
+        "source": "com.dicoding.newsapp-main-46:/layout/item_news.xml"
+    },
+    {
+        "merged": "com.dicoding.newsapp-mergeDebugResources-43:/layout/view_error.xml",
+        "source": "com.dicoding.newsapp-main-46:/layout/view_error.xml"
+    },
+    {
+        "merged": "com.dicoding.newsapp-mergeDebugResources-43:/layout/activity_news_detail.xml",
+        "source": "com.dicoding.newsapp-main-46:/layout/activity_news_detail.xml"
+    }
+]
