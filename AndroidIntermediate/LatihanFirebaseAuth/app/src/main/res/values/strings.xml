@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Firebase Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="default_web_client_id">62423008801-84oeenmmob49jp9jpndbqliqi9qcfse2.apps.googleusercontent.com</string>
+</resources>
