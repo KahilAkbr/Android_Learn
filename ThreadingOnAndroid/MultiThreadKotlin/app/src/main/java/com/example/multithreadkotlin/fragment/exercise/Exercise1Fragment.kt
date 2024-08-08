@@ -1,4 +1,4 @@
-package com.example.multithreadkotlin.fragment
+package com.example.multithreadkotlin.fragment.exercise
 
 import android.os.Bundle
 import android.util.Log
